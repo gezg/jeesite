@@ -1,0 +1,29 @@
+$base-color         : #6eaadd;
+$base-hover-color   : darken($base-color,3%);
+
+$dropdown-color     :$base-color ;
+$dropdown-bg-color  :  darken($base-color ,2%);
+$dropdown-gradient-color : $dropdown-bg-color;
+
+
+$btn-link-color     : darken($base-color ,4%);
+
+$btn-primary-color                      : $base-color;
+$btn-primary-hover-color                : #428bca;
+$btn-primary-gradient-start-color       : $base-color;
+$btn-primary-gradient-end-color         : $btn-primary-hover-color;
+$btn-primary-filter-start-color         : #ff6eaadd;
+$btn-primary-filter-end-color           : #ff428bca;
+
+$btn-waring-color                       : #f3c768;
+$btn-waring-hover-color                 : #efb73e;
+$btn-waring-gradient-start-color       	: #f5d185;
+$btn-waring-gradient-end-color         	: $btn-waring-hover-color;
+$btn-waring-filter-start-color          : #fff5d185;
+$btn-waring-filter-end-color            : #ffefb73e;
+
+
+$navbar-start-color 		: $base-color;
+$navbar-end-color 			: $btn-primary-hover-color;
+$navbar-filter-start-color  :#ff6eaadd;
+$navbar-filter-end-color    :#ff428bca;

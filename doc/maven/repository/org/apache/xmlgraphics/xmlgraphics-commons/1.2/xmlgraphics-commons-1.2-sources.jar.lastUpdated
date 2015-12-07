@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 05 11:23:42 CST 2015
+http\://repo1.maven.org/maven2/.lastUpdated=1449285797522
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1449285820073
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1449285789193
+http\://repo.maven.apache.org/maven2/.lastUpdated=1449285793982
+http\://repo.spring.io/release/.lastUpdated=1449285793291
+http\://download.java.net/maven/2/.lastUpdated=1449285792053
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+http\://maven.oschina.net/content/groups/public/.error=
+https\://raw.github.com/thinkgem/repository/master/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.xmlgraphics\:xmlgraphics-commons\:jar\:sources\:1.2 from/to activiti-repos (https\://maven.alfresco.com/nexus/content/groups/public)\: Connection to https\://maven.alfresco.com refused
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1449285820000
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.error=
+https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1449285822293
+@default-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1449285818534
